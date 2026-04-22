@@ -1,0 +1,5 @@
+name: CombatSystem
+version: 1.0.0
+main: mc.combat.Main
+api: ["2.0.0"]
+author: ox
