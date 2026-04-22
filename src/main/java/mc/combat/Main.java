@@ -13,7 +13,7 @@ public class Main extends PluginBase {
     
     @Override
     public void onEnable(){
-        this.getLogger().info(TextFormat.AQUA + "Combat System has been enabled!");
+        this.getLogger().info(TextFormat.AQUA + "Combat System has been enabled! Yahoo");
         this.getLogger().info(TextFormat.AQUA + "V0.0.0.5");
         
         this.getServer().getPluginManager().registerEvents(new EventListener(this), this);
